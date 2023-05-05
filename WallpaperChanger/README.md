@@ -25,7 +25,8 @@ if you want this as a command that you can use anywhere run
 ```sh
 sudo cp changewp.sh /usr/bin/changewp
 ```
-i have a startup script that runs  
+
+if you want to have your changes persistent add the following to your startup script
 ```sh
 feh --bg-scale pics/Wallpapers/.current/*.*
 ```
