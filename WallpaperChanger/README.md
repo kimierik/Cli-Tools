@@ -14,6 +14,7 @@ to make the needed directories run
 ```sh
 mkdir -p ~/pics/Wallpapers/.current
 ```
+alternatively you can change the path the script uses from the WPPath variable in the script
 
 
 for instructions run 
